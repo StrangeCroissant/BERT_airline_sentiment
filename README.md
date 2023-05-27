@@ -8,3 +8,5 @@ pip install -r requirements.txt
 ```
 
 
+You can run the training directly by downloading BERT_notebook.ipynb  via a jupyter server( Colab,Kaggle,Notebook, etc.) 
+
